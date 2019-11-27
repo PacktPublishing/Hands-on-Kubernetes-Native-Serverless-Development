@@ -1,5 +1,5 @@
 # Hands-on-Kubernetes-Native-Serverless-Development
-This is the code repository for [Hands-on-Kubernetes-Native-Serverless-Development](Website), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Hands-on-Kubernetes-Native-Serverless-Development](https://www.packtpub.com/cloud-networking/hands-on-kubernetes-native-serverless-development-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 
 
